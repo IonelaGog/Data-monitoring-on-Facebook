@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1515402147 source:c:\users\admin-hp\desktop\code blocks\date_facebook\array1.c
+	<stdio.h>
+	"array1.h"
+
+1515400782 source:c:\users\admin-hp\desktop\code blocks\date_facebook\array2.c
+	"array2.h"
+	<stdio.h>
+
+1515401722 source:c:\users\admin-hp\desktop\code blocks\date_facebook\array3.c
+	"array3.h"
+	<stdio.h>
+
+1515413552 source:c:\users\admin-hp\desktop\code blocks\date_facebook\array4.c
+	<stdio.h>
+	"array4.h"
+
+1515413274 source:c:\users\admin-hp\desktop\code blocks\date_facebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"array1.h"
+	"array2.h"
+	"array3.h"
+	"array4.h"
+
+1513598847 c:\users\admin-hp\desktop\code blocks\date_facebook\array1.h
+	<stdlib.h>
+
+1515400505 c:\users\admin-hp\desktop\code blocks\date_facebook\array2.h
+	<stdlib.h>
+
+1515401722 c:\users\admin-hp\desktop\code blocks\date_facebook\array3.h
+	<stdlib.h>
+
+1513599415 c:\users\admin-hp\desktop\code blocks\date_facebook\array4.h
+	<stdlib.h>
+
+1515402147 source:e:\an 1\folder nou\code blocks\date_facebook\array1.c
+	<stdio.h>
+	"array1.h"
+
+1513598847 e:\an 1\folder nou\code blocks\date_facebook\array1.h
+	<stdlib.h>
+
+1515400782 source:e:\an 1\folder nou\code blocks\date_facebook\array2.c
+	"array2.h"
+	<stdio.h>
+
+1515400505 e:\an 1\folder nou\code blocks\date_facebook\array2.h
+	<stdlib.h>
+
+1515401722 source:e:\an 1\folder nou\code blocks\date_facebook\array3.c
+	"array3.h"
+	<stdio.h>
+
+1515401722 e:\an 1\folder nou\code blocks\date_facebook\array3.h
+	<stdlib.h>
+
+1515413552 source:e:\an 1\folder nou\code blocks\date_facebook\array4.c
+	<stdio.h>
+	"array4.h"
+
+1513599415 e:\an 1\folder nou\code blocks\date_facebook\array4.h
+	<stdlib.h>
+
+1515413274 source:e:\an 1\folder nou\code blocks\date_facebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"array1.h"
+	"array2.h"
+	"array3.h"
+	"array4.h"
+
